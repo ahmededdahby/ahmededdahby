@@ -1,4 +1,9 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
+
+<div align="center">
+  <img src="https://s3.eu-west-2.amazonaws.com/fifteen-uploads/uploads/2017/05/animated.gif" alt="MasterHead" width="100%">
+</div>
+
+
 
 <h1 align="center">Hi 👋, I'm Ahmed ED-dahby</h1>
 <h3 align="center">.NET & Blazor Front-End Developer</h3>
